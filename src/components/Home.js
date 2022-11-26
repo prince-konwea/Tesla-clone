@@ -49,7 +49,7 @@ function Home() {
       />
       <Section 
        title="Accessories"
-       description=""
+       description= "$1000"
        backgroundImg="accessories.jpg"
        leftBtnText="order now"
       
